@@ -233,4 +233,4 @@ Rather than focusing solely on dashboard creation, the project emphasizes the co
 
 It highlights a key principle of financial engineering:
 
-**Risk can be transformed, redistributed, and repackaged—but it cannot be eliminated.**
+**Risk can be transformed, redistributed, and repackaged but it cannot be eliminated.**
