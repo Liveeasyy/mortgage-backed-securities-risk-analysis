@@ -43,8 +43,8 @@ A synthetic dataset was designed and generated entirely in MySQL to simulate a r
 
 ### Scale
 
-* 2,000 Borrowers
-* 2,000 Loans
+* 3,000 Borrowers
+* 3,000 Loans
 * Thousands of Payment Records
 * Multiple Loan Pools
 * Multiple Investment Tranches
